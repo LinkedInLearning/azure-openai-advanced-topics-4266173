@@ -1,11 +1,62 @@
-Copyright 2023 LinkedIn Corporation
+Copyright 2024 LinkedIn Corporation
 All Rights Reserved.
 
 Licensed under the LinkedIn Learning Exercise File License (the "License").
 See LICENSE in the project root for license information.
 
 ATTRIBUTIONS:
-[PLEASE PROVIDE ATTRIBUTIONS OR DELETE THIS AND THE ABOVE LINE “ATTRIBUTIONS”]
+
+-------------------  
+**openai**  
+[https://pypi.org/project/openai/](https://pypi.org/project/openai/)   
+-------------------  
+**azure-identity**  
+[https://pypi.org/project/azure-identity/](https://pypi.org/project/azure-identity/)  
+-------------------  
+**flask**  
+[https://pypi.org/project/flask/](https://pypi.org/project/flask/)  
+-------------------  
+**gunicorn**  
+[https://pypi.org/project/gunicorn/](https://pypi.org/project/gunicorn/)   
+-------------------  
+**azure-keyvault-secrets**  
+[https://pypi.org/project/azure-keyvault-secrets/](https://pypi.org/project/azure-keyvault-secrets/)  
+-------------------  
+**Microsoft.ApplicationInsights.WorkerService**  
+[https://www.nuget.org/packages/Microsoft.ApplicationInsights.WorkerService/](https://www.nuget.org/packages/Microsoft.ApplicationInsights.WorkerService/)  
+License: MIT  
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)  
+-------------------  
+**Microsoft.Azure.Functions.Worker.Extensions.Http**  
+[https://www.nuget.org/packages/Microsoft.Azure.Functions.Worker.Extensions.Http/](https://www.nuget.org/packages/Microsoft.Azure.Functions.Worker.Extensions.Http/)  
+License: MIT  
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)  
+-------------------  
+**Microsoft.Azure.Functions.Worker.Extensions.Http.AspNetCore**  
+[https://www.nuget.org/packages/Microsoft.Azure.Functions.Worker.Extensions.Http.AspNetCore/](https://www.nuget.org/packages/Microsoft.Azure.Functions.Worker.Extensions.Http.AspNetCore/)  
+License: MIT  
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)  
+-------------------  
+**Microsoft.Azure.Functions.Worker**  
+[https://www.nuget.org/packages/Microsoft.Azure.Functions.Worker/](https://www.nuget.org/packages/Microsoft.Azure.Functions.Worker/)  
+License: MIT  
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)  
+-------------------  
+**Microsoft.Azure.Functions.Worker.ApplicationInsights**  
+[https://www.nuget.org/packages/Microsoft.Azure.Functions.Worker.ApplicationInsights/](https://www.nuget.org/packages/Microsoft.Azure.Functions.Worker.ApplicationInsights/)  
+License: MIT  
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)  
+-------------------  
+**Microsoft.Azure.Functions.Worker.Extensions.OpenAI**  
+[https://www.nuget.org/packages/Microsoft.Azure.Functions.Worker.Extensions.OpenAI/](https://www.nuget.org/packages/Microsoft.Azure.Functions.Worker.Extensions.OpenAI/)   
+-------------------  
+**Microsoft.Azure.Functions.Worker.Sdk**  
+[https://www.nuget.org/packages/Microsoft.Azure.Functions.Worker.Sdk/](https://www.nuget.org/packages/Microsoft.Azure.Functions.Worker.Sdk/)  
+License: MIT  
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)  
+-------------------  
+
+This list includes the software dependencies, URLs (where available), their licenses, and corresponding license URLs. Some dependencies have "NOASSERTION" for license information, meaning the license was not specified in the SBOM.
 
 Please note, this project may automatically load third party code from external 
 repositories (for example, NPM modules, Composer packages, or other dependencies). 
